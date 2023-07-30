@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**jnory/jnory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jun-ya NORIMATSU (乗松潤矢)
 
-Here are some ideas to get you started:
+See also my company organization: https://github.com/alinear-corp .  
+※ 最近の活動は私の経営している会社のorganizationにコミットしていることの方が多いです。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests in Computer Science
+
+* Natural Language Processing
+  * Language modeling
+* Data Structure and Algorithms
+  * Succinct data structures
+  * Trie (especially on double array structures)
+
+### My Work
+
+I am mainly working on the development of NLP-related systems.
+In addition, I work as a teacher in the field programming.
+
+### Additional Interests (just hobby 😄)
+
+* Korean Learner
+* Japanese Chess (将棋)
+
+### Contact
+
+My Company: https://www.alinear.jp/
