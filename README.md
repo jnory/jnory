@@ -20,7 +20,7 @@ In addition, I work as a teacher in the field programming.
 
 ### Additional Interests (just hobby 😄)
 
-* Korean Learner
+* Korean learner (Beginner Level)
 * Japanese Chess (将棋)
 
 ### Contact
